@@ -1,0 +1,20 @@
+home.html -> songs.html
+<a href="/music/songss.html">
+
+help.html -> action.html
+<a href="/movies/action._movie/action.html">
+
+cinema.html -> help.html
+<a href="..../help.html">
+
+action.html -> home.html
+<a href="../../../home.html">
+
+cinema.html -> action.html
+<a href="/action_movies/action.html">
+
+song.html -> action.html
+<a href="../movies/action_movie/action.html">
+
+action.html -> songs.html
+<a href="../../music/songss.html">
